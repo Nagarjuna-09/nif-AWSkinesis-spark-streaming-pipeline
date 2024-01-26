@@ -248,5 +248,15 @@
 	<classpathentry kind="lib" path="D:/Downloads/Data Engineering Softwares/IDE and Scala Softwares/spark-2.4.7-bin-hadoop2.6/spark-2.4.7-bin-hadoop2.6/jars/snappy-java-1.1.7.5.jar"/>
 	<classpathentry kind="lib" path="D:/Downloads/Data Engineering Softwares/IDE and Scala Softwares/spark-2.4.7-bin-hadoop2.6/spark-2.4.7-bin-hadoop2.6/jars/spark-catalyst_2.11-2.4.7.jar"/>
 	<classpathentry kind="lib" path="D:/Downloads/Data Engineering Softwares/IDE and Scala Softwares/spark-2.4.7-bin-hadoop2.6/spark-2.4.7-bin-hadoop2.6/jars/ST4-4.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Data Engineering Softwares/IDE and Scala Softwares/extra jars/aws kinesis jars/spark-streaming-kinesis-asl_2.11-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Data Engineering Softwares/IDE and Scala Softwares/extra jars/aws kinesis jars/hadoop-aws-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Data Engineering Softwares/IDE and Scala Softwares/extra jars/aws kinesis jars/amazon-kinesis-client-1.13.3.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Data Engineering Softwares/IDE and Scala Softwares/extra jars/aws kinesis jars/aws-java-sdk-1.11.811.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Data Engineering Softwares/IDE and Scala Softwares/extra jars/aws kinesis jars/aws-java-sdk-cloudwatch-1.11.821.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Data Engineering Softwares/IDE and Scala Softwares/extra jars/aws kinesis jars/aws-java-sdk-core-1.11.820.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Data Engineering Softwares/IDE and Scala Softwares/extra jars/aws kinesis jars/aws-java-sdk-dynamodb-1.11.797.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Data Engineering Softwares/IDE and Scala Softwares/extra jars/aws kinesis jars/aws-java-sdk-kinesis-1.11.744.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Data Engineering Softwares/IDE and Scala Softwares/extra jars/aws kinesis jars/jackson-core-2.11.1.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Data Engineering Softwares/IDE and Scala Softwares/extra jars/aws kinesis jars/jackson-dataformat-cbor-2.6.7.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
